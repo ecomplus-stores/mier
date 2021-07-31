@@ -1,24 +1,24 @@
 {
-  "store_id": 4756,
-  "name": "mier",
   "domain": "mier.netlify.app",
-  "short_name": "mier",
-  "description": "mier",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#6e9bdd",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-white"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/mier",
+  "logo": "/img/uploads/logo.jpg",
+  "name": "Capital Piscinas",
+  "short_name": "capital",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/icone.jpg",
   "country_code": "BR",
-  "repository": "ecomplus-stores/mier"
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/icone.jpg",
+  "store_id": 4756,
+  "description": "Capital piscinas.",
+  "large_icon": "/img/uploads/icone.jpg"
 }
